@@ -1,0 +1,143 @@
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Admin.resources
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Form1.resources
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Reg.resources
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.SignUp.resources
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.UniPannel.resources
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+C:\Users\user\Desktop\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.exe
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.pdb
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.FacultyDeparts.resources
+C:\Users\user\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Faculty.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.exe
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.pdb
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Admin.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Faculty.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.FacultyDeparts.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Form1.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Reg.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.SignUp.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.UniPannel.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReg.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\Uni.PannelInfo.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Deparments.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Batches.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Semisters.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Courses.resources
+C:\Users\hafiz\Desktop\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.exe
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.pdb
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.csprojResolveAssemblyReference.cache
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Admin.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Batches.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Courses.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Deparments.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Faculty.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.FacultyDeparts.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Form1.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Properties.Resources.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Reg.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Semisters.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.SignUp.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReg.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReports.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.UniPannel.resources
+D:\Salman\Mn textile data\UniVersiyManagement BacUp\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.csproj.GenerateResource.Cache
+E:\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+E:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.exe
+E:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.pdb
+J:\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.exe
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.pdb
+J:\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+J:\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+J:\University_Management_System\University_Management_System\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Admin.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Batches.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Courses.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Deparments.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Faculty.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.FacultyDeparts.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Form1.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Properties.Resources.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Reg.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Semisters.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.SignUp.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReg.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReports.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.UniPannel.resources
+J:\University_Management_System\University_Management_System\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\University_Management_System\University_Management_System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.exe
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.pdb
+C:\Users\Public\Documents\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+C:\Users\Public\Documents\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Admin.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Batches.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Courses.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Deparments.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Faculty.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.FacultyDeparts.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Form1.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Reg.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Semisters.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.SignUp.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReg.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReports.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.UniPannel.resources
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\University_Management_System\University_Management_System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Admin.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Batches.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Courses.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Deparments.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Faculty.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.FacultyDeparts.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Form1.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Reg.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Semisters.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReg.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReports.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.UniPannel.resources
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.exe
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.pdb
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+C:\Users\user\Desktop\UniversityProjectBackup\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.csproj.CoreCompileInputs.cache
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe.config
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.exe
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.pdb
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\bin\Debug\University_Management_System.exe
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\bin\Debug\University_Management_System.pdb
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Admin.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Batches.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Courses.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Deparments.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Faculty.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.FacultyDeparts.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Form1.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Properties.Resources.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.Reg.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.Semisters.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReg.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.StdReports.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\LoginPag.UniPannel.resources
+D:\Notes semester 2\UMS 2017\UniversityManagement main\University_Management_System\University_Management_System\obj\x86\Debug\University_Management_System.csproj.GenerateResource.Cache
